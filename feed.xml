@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 	<channel>
 		<title><![CDATA[Battle For Stars Wand]]></title>
 		<description><![CDATA[Battle for Stars Wand (BFSW) is a competition show where 14 contestants get teleported to an area to compete for stars wand]]></description>
 		<link>https://lyricify.crd.co</link>
 		<generator>GitHub Pages Custom Video Feed</generator>
 		<lastBuildDate>Wed, 30 Sep 2026 01:15:00 GMT</lastBuildDate>
-		<atom:link href="https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO-NAME/feed.xml" rel="self" type="application/rss+xml"/>
-		<author><![CDATA[BFSW X AL]]></author>
+		<atom:link href="https://1lyricify.github.io/bfswpodcastrrs/feed.xml" rel="self" type="application/rss+xml"/>
 		<copyright><![CDATA[BFSW X AL]]></copyright>
 		<language><![CDATA[en]]></language>
 		<itunes:author>BFSW X AL</itunes:author>
@@ -17,8 +16,8 @@
 			<itunes:name>BFSW X AL</itunes:name>
 			<itunes:email>lyricify.carrd.co@gmail.com</itunes:email>
 		</itunes:owner>
-		<itunes:explicit>false</itunes:explicit>
-		<itunes:category text="Leisure">
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:category text="Arts">
 			<itunes:category text="Animation &amp; Manga"/>
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/46652120/46652120-1788137086857-33404f7adb567.jpg"/>
@@ -26,16 +25,14 @@
 		<!-- ep three -->
 		<item>
 			<title><![CDATA[ "If By Fate We Met Again" | Part One]]></title>
-			<description><![CDATA[<p>This is part 1 of the most exciting episode <em><strong>YET!</strong></em>: BFSW 3!!! Star is really gonna go through it in part 2.</p>
-]]></description>
+			<description><![CDATA[<p>This is part 1 of the most exciting episode <em><strong>YET!</strong></em>: BFSW 3!!! Star is really gonna go through it in part 2.</p>]]></description>
 			<link>https://lyricify.crd.co</link>
 			<guid isPermaLink="false">95344571-466a-44a8-bebf-41c84ca390e8</guid>
 			<dc:creator><![CDATA[BFSW X AL]]></dc:creator>
 			<pubDate>Mon, 31 Aug 2026 01:03:29 GMT</pubDate>
 			<enclosure url="https://lyricify.crd.co/assets/videos/video01.mp4?v=935eccfc" length="12345678" type="video/mp4"/>
-			<itunes:summary>&lt;p&gt;This is part 1 of the most exciting episode &lt;em&gt;&lt;strong&gt;YET!&lt;/strong&gt;&lt;/em&gt;: BFSW 3!!! Star is really gonna go through it in part 2.&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
+			<itunes:summary>This is part 1 of the most exciting episode YET!: BFSW 3!!! Star is really gonna go through it in part 2.</itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
 			<itunes:duration>00:05:04</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/46652120/46652120-1788137086857-33404f7adb567.jpg"/>
 			<itunes:season>1</itunes:season>
@@ -46,16 +43,14 @@
 		<!-- ep two -->
 		<item>
 			<title><![CDATA["DON'T FALL!"]]></title>
-			<description><![CDATA[<p>Wow after a 5 month production episode 2 is finally out! I hope ya like it!if you can animate and want to help then please fill out this form: <a href="https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rVDJXQ2FISFRYUXN3YkE4TGpRcG5Ld3xBR3JiS2FtS3ZvcU5zY3NnWDExdjdJZTVOenRGNFFhTGMzbEpHMXVRRk1oUzlNTUQ0WC02bGhZYUN1VUxRQm9IendLLW9hZmY0Y19PNnFiUkpmU01ORXN3aEZaMmdvNHFGc0lW&q=https%3A%2F%2Fforms.gle%2F1Zxjv3PA9PQFPJxg9&v=EZkGJnW6nZQ" target="_blank" rel="nofollow">https://forms.gle/1Zxjv3PA9PQFPJxg9</a>Some music was makes by me but I also used some Kevin macleaoud music</p>
-]]></description>
+			<description><![CDATA[<p>Wow after a 5 month production episode 2 is finally out! I hope ya like it! if you can animate and want to help then please fill out this form: <a href="https://forms.gle/1Zxjv3PA9PQFPJxg9" target="_blank" rel="nofollow">https://forms.gle/1Zxjv3PA9PQFPJxg9</a> Some music was made by me but I also used some Kevin MacLeod music</p>]]></description>
 			<link>https://lyricify.crd.co</link>
 			<guid isPermaLink="false">c84c87e9-1043-4285-a461-fc1ac59e7484</guid>
 			<dc:creator><![CDATA[BFSW X AL]]></dc:creator>
 			<pubDate>Mon, 31 Aug 2026 00:58:02 GMT</pubDate>
 			<enclosure url="https://lyricify.crd.co/assets/videos/video04.mp4?v=6f9349c3" length="12345678" type="video/mp4"/>
-			<itunes:summary>&lt;p&gt;Wow after a 5 month production episode 2 is finally out! I hope ya like it!if you can animate and want to help then please fill out this form: &lt;a href=&quot;https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUM4Zm9rVDJXQ2FISFRYUXN3YkE4TGpRcG5Ld3xBR3JiS2FtS3ZvcU5zY3NnWDExdjdJZTVOenRGNFFhTGMzbEpHMXVRRk1oUzlNTUQ0WC02bGhZYUN1VUxRQm9IendLLW9hZmY0Y19PNnFiUkpmU01ORXN3aEZaMmdvNHFGc0lW&amp;q=https%3A%2F%2Fforms.gle%2F1Zxjv3PA9PQFPJxg9&amp;v=EZkGJnW6nZQ&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;https://forms.gle/1Zxjv3PA9PQFPJxg9&lt;/a&gt;Some music was makes by me but I also used some Kevin macleaoud music&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
+			<itunes:summary>Wow after a 5 month production episode 2 is finally out! I hope ya like it!</itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
 			<itunes:duration>00:05:44</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/46652120/46652120-1788137086857-33404f7adb567.jpg"/>
 			<itunes:season>1</itunes:season>
@@ -72,28 +67,26 @@
 			<dc:creator><![CDATA[BFSW X AL]]></dc:creator>
 			<pubDate>Tue, 29 Sep 2026 18:00:00 GMT</pubDate>
 			<enclosure url="https://lyricify.crd.co/assets/videos/video02.mp4?v=935eccfc" length="5000000" type="video/mp4"/>
-			<itunes:summary>&lt;p&gt;The reason it’s so short is because if I extended the footage of the episode by 1 second it would contain spoilers.&lt;/p&gt;</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
+			<itunes:summary>The reason it is so short is because if I extended the footage of the episode by 1 second it would contain spoilers.</itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
 			<itunes:duration>00:00:30</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/46652120/46652120-1788137086857-33404f7adb567.jpg"/>
 			<itunes:season>1</itunes:season>
-			<itunes:episode>0</itunes:episode>
+			<itunes:episode>1</itunes:episode>
 			<itunes:episodeType>trailer</itunes:episodeType>
 		</item>
 
 		<!-- ep one -->
 		<item>
 			<title><![CDATA[Welcome One And All!]]></title>
-			<description><![CDATA[<p><strong>14 contestants are brought to an island after signing up on a website to compete in a competition show Battle For Stars Wand </strong>(BFSW).<em>Battle For Stars Wand is created by Velyi/Naythan</em></p><p><br></p><p><br></p>
-]]></description>
+			<description><![CDATA[<p><strong>14 contestants are brought to an island after signing up on a website to compete in a competition show Battle For Stars Wand </strong>(BFSW). <em>Battle For Stars Wand is created by Velyi/Naythan</em></p>]]></description>
 			<link>https://lyricify.crd.co</link>
 			<guid isPermaLink="false">6466e369-e0e5-4805-9590-a98282fb2851</guid>
 			<dc:creator><![CDATA[BFSW X AL]]></dc:creator>
 			<pubDate>Mon, 31 Aug 2026 00:51:41 GMT</pubDate>
 			<enclosure url="https://lyricify.crd.co/assets/videos/video02.mp4?v=6f9349c3" length="12345678" type="video/mp4"/>
-			<itunes:summary>&lt;p&gt;&lt;strong&gt;14 contestants are brought to an island after signing up on a website to compete in a competition show Battle For Stars Wand &lt;/strong&gt;(BFSW).&lt;em&gt;Battle For Stars Wand is created by Velyi/Naythan&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
+			<itunes:summary>14 contestants are brought to an island after signing up on a website to compete in a competition show Battle For Stars Wand.</itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
 			<itunes:duration>00:06:54</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/46652120/46652120-1788137086857-33404f7adb567.jpg"/>
 			<itunes:season>1</itunes:season>
