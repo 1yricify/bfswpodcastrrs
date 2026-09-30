@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
 	<channel>
 		<title><![CDATA[Battle For Stars Wand]]></title>
 		<description><![CDATA[Battle for Stars Wand (BFSW) is a competition show where 14 contestants get teleported to an area to compete for stars wand]]></description>
@@ -14,7 +14,7 @@
 		<itunes:type>episodic</itunes:type>
 		<itunes:owner>
 			<itunes:name>BFSW X AL</itunes:name>
-			<itunes:email>lyricify.carrd.co@gmail.com</itunes:email>
+			<itunes:email>lyricify.crd.co@gmail.com</itunes:email>
 		</itunes:owner>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:category text="Arts">
@@ -31,6 +31,7 @@
 			<dc:creator><![CDATA[BFSW X AL]]></dc:creator>
 			<pubDate>Mon, 31 Aug 2026 01:03:29 GMT</pubDate>
 			<enclosure url="https://lyricify.crd.co/assets/videos/video01.mp4?v=935eccfc" length="12345678" type="video/mp4"/>
+			<media:content url="https://lyricify.crd.co/assets/videos/video01.mp4?v=935eccfc" fileSize="12345678" type="video/mp4" medium="video"/>
 			<itunes:summary>This is part 1 of the most exciting episode YET!: BFSW 3!!! Star is really gonna go through it in part 2.</itunes:summary>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:duration>00:05:04</itunes:duration>
@@ -49,6 +50,7 @@
 			<dc:creator><![CDATA[BFSW X AL]]></dc:creator>
 			<pubDate>Mon, 31 Aug 2026 00:58:02 GMT</pubDate>
 			<enclosure url="https://lyricify.crd.co/assets/videos/video04.mp4?v=6f9349c3" length="12345678" type="video/mp4"/>
+			<media:content url="https://lyricify.crd.co/assets/videos/video04.mp4?v=6f9349c3" fileSize="12345678" type="video/mp4" medium="video"/>
 			<itunes:summary>Wow after a 5 month production episode 2 is finally out! I hope ya like it!</itunes:summary>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:duration>00:05:44</itunes:duration>
@@ -67,6 +69,7 @@
 			<dc:creator><![CDATA[BFSW X AL]]></dc:creator>
 			<pubDate>Tue, 29 Sep 2026 18:00:00 GMT</pubDate>
 			<enclosure url="https://lyricify.crd.co/assets/videos/video02.mp4?v=935eccfc" length="5000000" type="video/mp4"/>
+			<media:content url="https://lyricify.crd.co/assets/videos/video02.mp4?v=935eccfc" fileSize="5000000" type="video/mp4" medium="video"/>
 			<itunes:summary>The reason it is so short is because if I extended the footage of the episode by 1 second it would contain spoilers.</itunes:summary>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:duration>00:00:30</itunes:duration>
@@ -85,6 +88,7 @@
 			<dc:creator><![CDATA[BFSW X AL]]></dc:creator>
 			<pubDate>Mon, 31 Aug 2026 00:51:41 GMT</pubDate>
 			<enclosure url="https://lyricify.crd.co/assets/videos/video02.mp4?v=6f9349c3" length="12345678" type="video/mp4"/>
+			<media:content url="https://lyricify.crd.co/assets/videos/video02.mp4?v=6f9349c3" fileSize="12345678" type="video/mp4" medium="video"/>
 			<itunes:summary>14 contestants are brought to an island after signing up on a website to compete in a competition show Battle For Stars Wand.</itunes:summary>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:duration>00:06:54</itunes:duration>
